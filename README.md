@@ -6,15 +6,15 @@ Installs an icon theme, GTK theme, mouse cursor, openbox theme, xcompmgr, and cu
 
 To download:
 
-    git clone https://github.com/Botspot/Windows-10
+    git clone https://github.com/Botspot/Windows-8
     
 To install:
     
-    /home/pi/Windows-10/install
+    /home/pi/Windows-8/install
 
 To uninstall:
 
-    /home/pi/Windows-10/uninstall
+    /home/pi/Windows-8/uninstall
     sudo apt purge xcompmgr gtk2-engines-murrine tint2 -y
 **Thanks to François for featuring this Windows 10 theme in [his blog](https://www.framboise314.fr/raspberry-pi-os-avec-un-look-de-windows-10/)!**
 ## Credit:
