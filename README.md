@@ -2,7 +2,7 @@
 Make Raspberry Pi OS look as close to Windows 8 as possible.
 Installs an icon theme, GTK theme, mouse cursor, openbox theme, xcompmgr, and custom panel.
 ![images (1)](https://user-images.githubusercontent.com/87420016/127193723-2d390e0c-0864-4d7d-bc3a-dd91ffa404a2.jpeg)
-](https://github.com/Botspot/pi-apps)
+](https://github.com/P-EO/pi-store)
 
 To download:
 
