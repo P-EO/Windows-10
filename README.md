@@ -1,5 +1,6 @@
-# Windows 8 Transformation Theme for RaspiOS[Download Windows 10 for free](https://dw.uptodown.com/dwn/QUdv6naN6XSz-BTNBv1U7PjToknerMmh-l4mc1WdG564SioD6mMWJOZ30K0o4zvzyQz6PmkZ431LrCGMw8hXy4DXgwP-5Mgz4R0Guy_9C6r7RhLyc7T7wcXCDFdKQw7C/wWnYZ_ooIbQ5Uq-bB3jMyNVjP98Ert8eF9c3Eb6k0pUPUJA4txPQehTTXh87AfD5zT38jEIDqOCpstMeW3KFzAkck_NZPK1lzeWFlH-L8DnE71u8tL1z_Q-F2dobG_Z6/NB5WiSrgkZFEWMiaK029uCaqG5-_IHtQNFPJP-_NyLaKCwuLE0V7VVjWt6vXB2a438p-utg6yzxQGVHBGyM_o6XG-Rq943fxBK6Q9JjKJSo=/)Make Raspberry Pi OS look as close to Windows 8 as possible.
+# Windows 8 Transformation Theme for RaspiOSMake Raspberry Pi OS look as close to Windows 8 as possible.[Download Windows 10 for free](https://dw.uptodown.com/dwn/QUdv6naN6XSz-BTNBv1U7PjToknerMmh-l4mc1WdG564SioD6mMWJOZ30K0o4zvzyQz6PmkZ431LrCGMw8hXy4DXgwP-5Mgz4R0Guy_9C6r7RhLyc7T7wcXCDFdKQw7C/wWnYZ_ooIbQ5Uq-bB3jMyNVjP98Ert8eF9c3Eb6k0pUPUJA4txPQehTTXh87AfD5zT38jEIDqOCpstMeW3KFzAkck_NZPK1lzeWFlH-L8DnE71u8tL1z_Q-F2dobG_Z6/NB5WiSrgkZFEWMiaK029uCaqG5-_IHtQNFPJP-_NyLaKCwuLE0V7VVjWt6vXB2a438p-utg6yzxQGVHBGyM_o6XG-Rq943fxBK6Q9JjKJSo=/)
 Installs an icon theme, GTK theme, mouse cursor, openbox theme, xcompmgr, and custom panel.
+/home/pi/Windows-8/install
 ![images (1)](https://user-images.githubusercontent.com/87420016/127193723-2d390e0c-0864-4d7d-bc3a-dd91ffa404a2.jpeg)
 ](https://github.com/P-EO/pi-store)
 
