@@ -61,7 +61,7 @@ if [ -f /usr/bin/conky ];then
   sleep 1
 fi
 
-zenity --info --text="Have a look around.\nPlease let me know if there is anything I can improve. \n\n -Botspot" --icon-name=emblem-default --ellipsize &>/dev/null &
+zenity --info --text="Have a look around.\nPlease let me know if there is anything I can improve. \n\n -P-EO" --icon-name=emblem-default --ellipsize &>/dev/null &
 
 sleep 5
 exit 0
