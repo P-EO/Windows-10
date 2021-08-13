@@ -2,7 +2,8 @@
 Installs an icon theme, GTK theme, mouse cursor, openbox theme, xcompmgr, and custom panel.
 /home/pi/Windows-8/install
 ![images (1)](https://user-images.githubusercontent.com/87420016/127193723-2d390e0c-0864-4d7d-bc3a-dd91ffa404a2.jpeg)
-](https://github.com/P-EO/pi-store)
+![ubuntusoftware](https://user-images.githubusercontent.com/87420016/129383173-b0606bb6-7469-4941-9c77-a08f1e82f43d.png)[Pi-Store](https://github.com/P-EO/pi-store)
+(https://github.com/P-EO/pi-store)
 
 To download:
 
